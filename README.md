@@ -55,8 +55,9 @@
 <p align="center"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivang16&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/></p>
 <br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
 
