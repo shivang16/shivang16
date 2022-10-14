@@ -56,6 +56,7 @@
 <br>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
 
