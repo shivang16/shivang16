@@ -70,11 +70,13 @@ Last Updated: Saturday, October 15th, 2022, 7:42:29 AM
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-311%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 265 Contributions in the Year 2022
+> 🏆 261 Contributions in the Year 2022
  > 
 > 📦 104.6 kB Used in GitHub's Storage 
  > 
@@ -84,6 +86,48 @@ Last Updated: Saturday, October 15th, 2022, 7:42:29 AM
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   35.21% 
+🌃 Evening    112 commits    ██████████░░░░░░░░░░░░░░░   41.95% 
+🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Tuesday      56 commits     █████░░░░░░░░░░░░░░░░░░░░   20.97% 
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Thursday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
+Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -97,7 +141,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 07:41:15 UTC
+ Last Updated on 15/10/2022 07:49:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
