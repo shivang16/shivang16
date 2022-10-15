@@ -70,6 +70,38 @@ Last Updated: Saturday, October 15th, 2022, 6:42:56 AM
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 258 Contributions in the Year 2022
+ > 
+> 📦 104.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in C++** 
+
+```text
+C++                      7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shivang16/shivang16/main/charts/bar_graph.png) 
+
+
+ Last Updated on 15/10/2022 06:54:41 UTC
 <!--END_SECTION:waka-->
 
 <br>
