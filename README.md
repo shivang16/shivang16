@@ -69,6 +69,9 @@ Last Updated: Saturday, October 15th, 2022, 6:42:56 AM
 <p align="center"><img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivang16&theme=neon_blurange&date_format=M%20j%5B%2C%20Y%5D&background=020615&border=DDDDDD)](https://git.io/streak-stats" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/></p>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
 
