@@ -66,8 +66,6 @@
 Last Updated: Saturday, October 15th, 2022, 6:01:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
 
