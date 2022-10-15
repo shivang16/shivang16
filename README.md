@@ -61,12 +61,9 @@
 Last Updated: Saturday, October 15th, 2022, 7:42:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shivang16&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shivang's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivang16&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shivang's Top Languages">
 <br>
-<p align="center"><img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivang16&theme=neon_blurange&date_format=M%20j%5B%2C%20Y%5D&background=020615&border=DDDDDD)](https://git.io/streak-stats" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/></p>
+<p align="center"><img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivang16&theme=neon_blurange&date_format=M%20j%5B%2C%20Y%5D&background=020615&border=DDDDDD)](https://git.io/streak-stats" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/>
+</p>
 <br>
 
 <!--START_SECTION:waka-->
