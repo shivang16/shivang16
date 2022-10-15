@@ -70,11 +70,11 @@ Last Updated: Saturday, October 15th, 2022, 6:56:23 AM
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-311%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 258 Contributions in the Year 2022
+> 🏆 259 Contributions in the Year 2022
  > 
 > 📦 104.5 kB Used in GitHub's Storage 
  > 
@@ -96,12 +96,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/shivang16/shivang16/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/10/2022 06:54:41 UTC
+ Last Updated on 15/10/2022 07:08:49 UTC
 <!--END_SECTION:waka-->
 
 <br>
