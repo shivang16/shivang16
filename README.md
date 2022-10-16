@@ -53,12 +53,12 @@
 1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-4. ⭐ Starred [adzo261/codeforces-timer](https://github.com/adzo261/codeforces-timer)
-5. ⭐ Starred [samarthtambad/leetcode-timer](https://github.com/samarthtambad/leetcode-timer)
+4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+5. ⭐ Starred [adzo261/codeforces-timer](https://github.com/adzo261/codeforces-timer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 16th, 2022, 9:07:51 AM
+Last Updated: Sunday, October 16th, 2022, 4:23:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
