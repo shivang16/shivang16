@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
-3. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
-4. 📔 Created new repository [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. 💪 Opened PR [#59](https://github.com/adityaa30/programs/pull/59) in [adityaa30/programs](https://github.com/adityaa30/programs)
+2. 💪 Opened PR [#58](https://github.com/adityaa30/programs/pull/58) in [adityaa30/programs](https://github.com/adityaa30/programs)
+3. ⬆️ Pushed 1 commit(s) to [shivang16/programs](https://github.com/shivang16/programs)
+4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+5. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 17th, 2022, 8:32:08 AM
+Last Updated: Monday, October 17th, 2022, 9:06:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
