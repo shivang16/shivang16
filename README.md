@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⬆️ Pushed 2 commit(s) to [shivang16/chrome-extension-tutorial](https://github.com/shivang16/chrome-extension-tutorial)
-3. 📔 Created new repository [shivang16/chrome-extension-tutorial](https://github.com/shivang16/chrome-extension-tutorial)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
+3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+5. ⬆️ Pushed 2 commit(s) to [shivang16/chrome-extension-tutorial](https://github.com/shivang16/chrome-extension-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 18th, 2022, 9:04:15 AM
+Last Updated: Tuesday, October 18th, 2022, 4:30:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
