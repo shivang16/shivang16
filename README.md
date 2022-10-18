@@ -29,7 +29,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I'm Application Developer at Oracle
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning how to make Chrome extension.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
