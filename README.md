@@ -1,5 +1,6 @@
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ 
 <p>
   <h1 align="center"><b>Hola amigos, I'm Shivang 🤙🏻</b></h1>
 </p>
@@ -44,6 +45,12 @@
 
 
 
+<br>
+<hr>
+
+### Badges:
+
+[![@shivang16's Holopin board](https://holopin.me/shivang16)](https://holopin.io/@shivang16)
 <br>
 <hr>
 
@@ -140,7 +147,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 26/10/2022 02:10:05 UTC
 <!--END_SECTION:waka-->
-
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
 
