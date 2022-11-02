@@ -57,15 +57,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-5. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 2nd, 2022, 9:22:59 AM
+Last Updated: Wednesday, November 2nd, 2022, 4:23:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
