@@ -74,15 +74,15 @@ Last Updated: Friday, December 9th, 2022, 1:05:20 AM
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 783 Contributions in the Year 2022
+> 🏆 785 Contributions in the Year 2022
  > 
-> 📦 105.8 kB Used in GitHub's Storage 
+> 📦 105.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,8 +94,8 @@ Last Updated: Friday, December 9th, 2022, 1:05:20 AM
 
 ```text
 🌞 Morning    80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-🌆 Daytime    148 commits    ████████░░░░░░░░░░░░░░░░░   32.39% 
-🌃 Evening    183 commits    ██████████░░░░░░░░░░░░░░░   40.04% 
+🌆 Daytime    147 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
+🌃 Evening    184 commits    ██████████░░░░░░░░░░░░░░░   40.26% 
 🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07%
 
 ```
@@ -105,8 +105,8 @@ Last Updated: Friday, December 9th, 2022, 1:05:20 AM
 Monday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
 Tuesday      102 commits    █████░░░░░░░░░░░░░░░░░░░░   22.32% 
 Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Thursday     91 commits     █████░░░░░░░░░░░░░░░░░░░░   19.91% 
-Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+Thursday     92 commits     █████░░░░░░░░░░░░░░░░░░░░   20.13% 
+Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
 Saturday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
 Sunday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
 
@@ -119,13 +119,14 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     58 mins             ████████████████████░░░░░   82.86% 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 11 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 11 mins        █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +143,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2022 17:02:50 UTC
+ Last Updated on 09/12/2022 01:39:28 UTC
 <!--END_SECTION:waka-->
 <br>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg"/>
