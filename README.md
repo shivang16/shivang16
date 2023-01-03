@@ -57,7 +57,7 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/learning-java](https://github.com/shivang16/learning-java)
 2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
@@ -65,7 +65,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 3rd, 2023, 9:06:32 AM
+Last Updated: Tuesday, January 3rd, 2023, 4:17:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
