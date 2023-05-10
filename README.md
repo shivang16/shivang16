@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
-2. ⬆️ Pushed 1 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
+1. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
+2. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
 3. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
-4. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
+4. ⬆️ Pushed 1 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
+5. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 9th, 2023, 12:38:06 AM
+Last Updated: Wednesday, May 10th, 2023, 12:37:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
