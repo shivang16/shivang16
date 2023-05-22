@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
-2. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
-3. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
-4. ⬆️ Pushed 1 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+3. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
+4. ⭐ Starred [yuenherny/um-wqd7003-ds-salary-analysis](https://github.com/yuenherny/um-wqd7003-ds-salary-analysis)
 5. ⬆️ Pushed 2 commit(s) to [shivang16/TuluskoTutorial](https://github.com/shivang16/TuluskoTutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 21st, 2023, 12:41:00 AM
+Last Updated: Monday, May 22nd, 2023, 12:39:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
