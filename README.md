@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
-2. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-3. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+2. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+3. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+4. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 14th, 2023, 12:41:35 AM
+Last Updated: Thursday, June 15th, 2023, 12:42:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
