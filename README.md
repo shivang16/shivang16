@@ -51,14 +51,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
-3. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-4. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+3. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+4. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+5. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 12:42:25 AM
+Last Updated: Friday, June 16th, 2023, 12:43:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
