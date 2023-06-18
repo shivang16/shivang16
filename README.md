@@ -53,12 +53,12 @@
 1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
-5. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+5. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 17th, 2023, 12:40:17 AM
+Last Updated: Sunday, June 18th, 2023, 12:47:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
