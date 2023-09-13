@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-3. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+1. ⭐ Starred [mkyong/spring-boot](https://github.com/mkyong/spring-boot)
+2. ⭐ Starred [in28minutes/SpringBootForBeginners](https://github.com/in28minutes/SpringBootForBeginners)
+3. ⭐ Starred [in28minutes/spring-microservices](https://github.com/in28minutes/spring-microservices)
 4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 12th, 2023, 12:31:48 AM
+Last Updated: Wednesday, September 13th, 2023, 12:33:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
