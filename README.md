@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mkyong/spring-boot](https://github.com/mkyong/spring-boot)
-2. ⭐ Starred [in28minutes/SpringBootForBeginners](https://github.com/in28minutes/SpringBootForBeginners)
-3. ⭐ Starred [in28minutes/spring-microservices](https://github.com/in28minutes/spring-microservices)
-4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/leetcode-api](https://github.com/shivang16/leetcode-api)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/leetcode-api](https://github.com/shivang16/leetcode-api)
+3. 📔 Created new repository [shivang16/leetcode-api](https://github.com/shivang16/leetcode-api)
+4. ⭐ Starred [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli)
+5. ⭐ Starred [JeremyTsaii/leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 12:33:20 AM
+Last Updated: Thursday, September 14th, 2023, 12:33:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
