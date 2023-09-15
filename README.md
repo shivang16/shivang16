@@ -67,15 +67,15 @@ Last Updated: Friday, September 15th, 2023, 12:33:36 AM
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-999.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 111.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,543 Contributions in the Year 2023
+> 🏆 1,545 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,9 +87,9 @@ Last Updated: Friday, September 15th, 2023, 12:33:36 AM
 
 ```text
 Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Tuesday                  880 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Wednesday                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Thursday                 913 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Tuesday                  880 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Wednesday                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 915 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 Friday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 Sunday                   165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
@@ -102,13 +102,17 @@ Sunday                   165 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
+JSON                     45 mins             ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+TSConfig                 37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -124,7 +128,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 00:59:54 UTC
+ Last Updated on 15/09/2023 01:01:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
