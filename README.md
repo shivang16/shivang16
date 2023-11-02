@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-2. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
+2. ⬆️ Pushed 1 commit(s) to [shivang16/software-interview-preparation](https://github.com/shivang16/software-interview-preparation)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 1st, 2023, 12:36:36 AM
+Last Updated: Thursday, November 2nd, 2023, 12:34:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
