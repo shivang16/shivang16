@@ -50,15 +50,15 @@
 ### :zap: Github Stats
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shivang16/spring-basic](https://github.com/shivang16/spring-basic)
+1. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 2. ⬆️ Pushed 1 commit(s) to [shivang16/spring-basic](https://github.com/shivang16/spring-basic)
 3. ⬆️ Pushed 1 commit(s) to [shivang16/spring-basic](https://github.com/shivang16/spring-basic)
-4. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
-5. ⬆️ Pushed 1 commit(s) to [shivang16/spring-basic](https://github.com/shivang16/spring-basic)
+4. ⬆️ Pushed 1 commit(s) to [shivang16/spring-basic](https://github.com/shivang16/spring-basic)
+5. ⬆️ Pushed 1 commit(s) to [shivang16/shivang16](https://github.com/shivang16/shivang16)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 12:34:45 AM
+Last Updated: Thursday, November 9th, 2023, 12:34:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
