@@ -19,12 +19,13 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT : "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           COMMIT_BY_ME: "True"
           SHOW_SHORT_INFO: "False"
+          IGNORED_REPOS: "shivang16"
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
