@@ -23,7 +23,7 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           SHOW_SHORT_INFO: "False"
           IGNORED_REPOS: "shivang16"
   build:
