@@ -33,39 +33,6 @@
 <p align="center"><img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivang16&theme=neon_blurange&date_format=M%20j%5B%2C%20Y%5D&background=020615&border=DDDDDD)](https://git.io/streak-stats" alt="Shivang's Streak Status" style="display: flex; justify-content: center;"/>
 </p>
 <br>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Java                     15 hrs 25 mins      ██████████████████████░░░   88.72 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-XML                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🔥 Editors: 
-Intellijidea             17 hrs 23 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C++** 
-
-```text
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on 02/02/2024 12:20:01 UTC
-<!--END_SECTION:waka-->
 <!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
 -->
