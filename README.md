@@ -35,7 +35,18 @@
 <br>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
+> 📦 38.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -52,6 +63,7 @@ GitIgnore file           4 mins              ░░░░░░░░░░░�
 Intellijidea             17 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
+**I Mostly Code in C++** 
 
 ```text
 JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
@@ -64,7 +76,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2024 12:01:43 UTC
+ Last Updated on 02/02/2024 12:05:56 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
