@@ -24,6 +24,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           COMMIT_BY_ME: "True"
+          SHOW_SHORT_INFO: "False"
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
